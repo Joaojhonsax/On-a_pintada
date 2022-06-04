@@ -1,4 +1,4 @@
-# On-a_pintada
+# Onça_pintada
 Animais em extinção
 
-https://joaojhonsax.github.io/On-a_pintada/
+https://joaojhonsax.github.io/Onça_pintada/
